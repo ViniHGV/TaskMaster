@@ -39,8 +39,7 @@
   <br />
   <h2>O arquivo schema.prisma é utilizado para gerenciar o banco de dados.</h2>
   <h2>Após criar novas tabelas ou fazer alterações.</h2>
-  <h2>npx prisma migrate dev</h2>
-  <h3></h3>
+  <h3>npx prisma migrate dev</h3>
   <br />
   <h1>🖥 Web</h1>
 </div>
