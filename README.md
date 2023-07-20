@@ -14,7 +14,9 @@
   <h3>npm i @types/node -D</h3>
   <br />
   <h2>Instalar o arquivo de configurações do TypeScript.</h2>
-  <h2>npx tsc --init</h2>
+  <h3>npx tsc --init</h3>
+  <br>
+  <h2>Editar o Arquivo de configurações do TypeScript.</h2>
   <h3>
     Logo após abrir o arquivo tsconfig.json e mudar o target para "es2020"
   </h3>
