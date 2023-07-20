@@ -15,7 +15,7 @@
   <br />
   <h2>Instalar o arquivo de configurações do TypeScript.</h2>
   <h3>npx tsc --init</h3>
-  <br>
+  <br />
   <h2>Editar o Arquivo de configurações do TypeScript.</h2>
   <h3>
     Logo após abrir o arquivo tsconfig.json e mudar o target para "es2020"
@@ -30,6 +30,17 @@
   <br />
   <h2>Instalar o Framework Fastify para Node.</h2>
   <h3>npm i fastify</h3>
-  <br>
+  <br />
+  <h2>Instalar o Framework Prisma.</h2>
+  <h3>npm i prisma -D</h3>
+  <br />
+  <h2>Criando um banco de dados no SQLite.</h2>
+  <h3>npx prisma init --datasource-provider SQLite</h3>
+  <br />
+  <h2>O arquivo schema.prisma é utilizado para gerenciar o banco de dados.</h2>
+  <h2>Após criar novas tabelas ou fazer alterações.</h2>
+  <h2>npx prisma migrate dev</h2>
+  <h3></h3>
+  <br />
   <h1>🖥 Web</h1>
 </div>
