@@ -41,5 +41,8 @@
   <h2>Após criar novas tabelas ou fazer alterações.</h2>
   <h3>npx prisma migrate dev</h3>
   <br />
+  <h2>Instalar pacote Prisma client para acessar o banco de dados.</h2>
+  <h3>npm i @prisma/client</h3>
+  <br />
   <h1>🖥 Web</h1>
 </div>
