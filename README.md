@@ -3,7 +3,7 @@
   <br />
   <h1>🌐 Server</h1>
   <br />
-  <h2>Iniciando Servidor</h2>
+  <h2>📡 Iniciando Servidor</h2>
   <h2>Para criar o package.json e iniciar o servidor.</h2>
   <h3>npm init -y</h3>
   <br />
