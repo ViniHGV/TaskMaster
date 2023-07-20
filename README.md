@@ -4,8 +4,8 @@
   <h1>🌐 Server</h1>
   <br />
   <h2>Iniciando Servidor</h2>
-  <h3>Para criar o package.json e iniciar o servidor.</h3>
-  <h4>npm init -y</h4>
+  <h2>Para criar o package.json e iniciar o servidor.</h2>
+  <h3>npm init -y</h3>
   <br />
   <h2>Instalar o TypeScript como dependencia de desenvolvimento.</h2>
   <h3>npm i typescript -D</h3>
@@ -28,5 +28,6 @@
   <br />
   <h2>Instalar o Framework Fastify para Node.</h2>
   <h3>npm i fastify</h3>
+  <br>
   <h1>🖥 Web</h1>
 </div>
